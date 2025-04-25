@@ -11,7 +11,7 @@ chapters:
         file: act1/chapter2
       - title: Question
         file: act1/chapter3
-
+        
   # Of Athena
   - file: act2/part2
     sections:
@@ -34,7 +34,7 @@ chapters:
             file: act3/part1/part1_2
           - title: Worthy
             file: act3/part1/part1_3
-      - title: 'Emergent 🤝'
+      - title: 'Emergent 🤝'  
         file: act3/act2
         sections:
           - title: Transactional
@@ -43,14 +43,14 @@ chapters:
             file: act3/part2/part2_2
           - title: Loyal
             file: act3/part2/part2_3
-      - title: 'Nonself ❤️'
+      - title: 'Nonself ❤️' 
         file: act3/act3
         sections:
           - title: Cooperative
             file: act3/part3/part3_1
           - title: Unconditional
             file: act3/part3/part3_2
-          - title: 'Family 🎹'
+          - title: 'Family 🎹' 
             file: act3/part3/part3_3
 
   - file: bibliography
